@@ -2,7 +2,7 @@ const config = {
   debug : false,
   prefix: "+",
   bot: {
-    token : process.env.TOKEN
+    token : "TOKEN_HERE"
   },
   owners: [
     "490044569488982017"
